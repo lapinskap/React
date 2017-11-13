@@ -1,1 +1,1 @@
-# Simple js app.
+# Simple js code created by Paulina Łapińska
