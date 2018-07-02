@@ -4,7 +4,7 @@
 * [Setup](#setup)
 
 ## General info
-My first app created in React and Ecmascript 6 syntax. The ![playground folder](./src/playground) contains examples of ES6 basics like arrow functions.
+My first app created in React and Ecmascript 6 syntax. The [playground folder](./src/playground) contains examples of ES6 basics like arrow functions.
 	
 ## Technologies
 Project is created with React. 
