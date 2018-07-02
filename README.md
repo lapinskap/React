@@ -14,10 +14,17 @@ Used dependencies:
 * yarn: ^1.2.1
 	
 ## Setup
-To run this project, install it locally using npm:
+To run this project, install it locally using yarn:
 
 ```
-$ cd ../lorem
+$ cd ../indecision-app
+$ yarn install
+$ yarn start
+```
+You can also use npm:
+
+```
+$ cd ../indecision-app
 $ npm install
 $ npm start
 ```
