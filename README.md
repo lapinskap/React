@@ -7,7 +7,7 @@
 My first app created in React and Ecmascript 6 syntax. The ![playground folder](./src/playground) contains examples of ES6 basics like arrow functions.
 	
 ## Technologies
-Project is created with React. 
+Project is created with React - JavaScript library for building user interfaces. 
 Used dependencies:
 * babel-preset-env: ^1.5.2,
 * babel-preset-react: ^6.24.1,
